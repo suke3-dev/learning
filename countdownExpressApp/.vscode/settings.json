@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/a597e5fe-3c45-4412-b944-53e730b31c57/resourceGroups/learn-7cdf0ab5-2cad-4267-a6d3-5faee857ccd5/providers/Microsoft.Web/sites/LaunchCountDown-ys-sasaki",
+    "appService.deploySubpath": "."
+}
